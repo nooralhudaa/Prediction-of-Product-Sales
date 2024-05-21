@@ -1,0 +1,144 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyMjaR27PnjrnnHqxssojovX",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/nooralhudaa/Prediction-of-Product-Sales/blob/main/notebook\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Project Title:(prediction of product sale)\n",
+        " - author:nooralhuda abusbeh."
+      ],
+      "metadata": {
+        "id": "APVtF3N6OawH"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "U_I0eKd5OrIN"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## \"Project Overview\"\n"
+      ],
+      "metadata": {
+        "id": "KFvjWh5jOxK5"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "9ylQhMvQOu9m"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## \"Load and Inspect Data\""
+      ],
+      "metadata": {
+        "id": "YA4bb2hHO33d"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "_O6JAy63M9t_"
+      },
+      "execution_count": 14,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "kMYIE0umO9dc"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## \"Clean Data\""
+      ],
+      "metadata": {
+        "id": "SwLDpmFuO9Ec"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "1H6pQQPTM-4R"
+      },
+      "execution_count": 15,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## \"Exploratory Data Analysis\""
+      ],
+      "metadata": {
+        "id": "LpHbeCuMPClC"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "x3ucup-TPCFh"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## \"Feature Inspection\""
+      ],
+      "metadata": {
+        "id": "sSkn1Ah3PNa8"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "EbjmRf4ZPMdp"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
